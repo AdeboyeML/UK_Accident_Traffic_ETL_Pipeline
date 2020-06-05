@@ -3,6 +3,12 @@
 [image3]: ./gad_imgs/roads.jpg "roads"
 [image1]: ./gad_imgs/UK_Accident_Data_Model.png "uk schema"
 [image2]: ./gad_imgs/uk_Traffic_Agg_Tables.png "uk agg"
+[image4]: ./gad_imgs/dag_interface.jpg "dag interface"
+[image5]: ./gad_imgs/graph_dag.jpg "dag pipeline"
+[image6]: ./gad_imgs/time_frame_dag.jpg "time frame"
+[image7]: ./gad_imgs/tree_view_dag.jpg "tree view"
+[image8]: ./gad_imgs/redshift_connect.jpg "data check"
+
 
 
 # UK_Accident_Traffic_ETL_Pipeline
@@ -24,7 +30,7 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 - Based on this moivation, two major goals were said to be achieved from this project:
 
 
-- First, is to create a **STAR SCHEMA with fact and dimension tables** from the UK Accident Dataset (approx. 1.5 million rows) and this would include a **accident fact table** that has the actual accident accurences and casualties that can be extracted from the dataset and **dimension tables** that highlights ***causes of the accident, location, time, conditions of the road, road types, and features that can be attributed to the accident.***
+- First, is to create a **STAR SCHEMA with fact and dimension tables** from the UK Accident Dataset (approx. 1.5 million rows) and this would include a **accident fact table** that has the actual accident accurences and casualties and **dimension tables** that highlights ***causes of the accident, location, time, conditions of the road, road types, and features that can be attributed to the accident.***
 
 
 ![uk schema][image1]
@@ -64,3 +70,42 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 
 - Amazon Redshift --> I utilized ``1 node`` with ``dc2.large``
 - Apache Airflow --> I utilized the Udacity Airflow server available for students in ***the project workspace***
+
+
+### Airflow Runtime Overview
+
+#### Airflow Interface:
+
+![dag interface][image4]
+
+
+#### Airflow ETL Workflow:
+
+![dag pipeline][image5]
+
+
+#### Time Frame:
+
+![time frame][image6]
+
+
+
+#### Airflow Tree View:
+
+![tree view][image7]
+
+
+
+### Quality Check on one of the tables in Redshift Database:
+
+![data check][image8]
+
+
+
+
+
+***Tools utilized: Python, Pyspark (Apache Spark), Amazon Web Services (s3, redshift), Apache airflow, PostgreSQL***
+
+
+
+
