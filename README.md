@@ -19,9 +19,9 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 
 ### Major Higlights
 
-- First of all, The motivation behind this project was to use ***big data frameworks and cloud services*** to build or develop an ETL pipeline that can be ran automatically without human involvenment based on scheduled time intervals.
+- The motivation behind this project was to use ***big data frameworks and cloud data warehouse services*** to build or develop an ETL pipeline that can be ran automatically without human involvenment based on scheduled time intervals.
 
-- There are two major goals to achieved in this project:
+- Based on this moivation, two major goals were said to be achieved from this project:
 
 
 - First, is to create a **STAR SCHEMA with fact and dimension tables** from the UK Accident Dataset (approx. 1.5 million rows) and this would include a **accident fact table** that has the actual accident accurences and casualties that can be extracted from the dataset and **dimension tables** that highlights ***causes of the accident, location, time, conditions of the road, road types, and features that can be attributed to the accident.***
@@ -50,9 +50,17 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 - Data are loaded from S3 to their respective tables in Amazon Redshift (Distributed Database)
 - Data quality checks is done on each table to make sure all tables are filled 
 - Execution Ends.
-- Note: Airflow DAG runs the whole process
+- Note: Airflow DAG runs the whole process.
+
+
 
 
 - **The ETL process is scheduled to run monthly, as it is expected after every month, new traffic and accident data will be uploaded to Amazon S3.**
 - Every month, the whole process starts again. 
 - Automation is achieved with ***Apache Airflow***
+
+
+### Environmental Setup 
+
+- Amazon Redshift --> I utilized ``1 node`` with ``dc2.large``
+- Apache Airflow --> I utilized the Udacity Airflow server available for students in ***the project workspace***
