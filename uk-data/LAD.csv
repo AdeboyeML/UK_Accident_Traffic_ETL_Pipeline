@@ -1,0 +1,424 @@
+Code,Name,Region/Country,Supergroup name
+E06000047,County Durham,"North East, England",Services and Industrial Legacy   
+E06000005,Darlington,"North East, England",Services and Industrial Legacy   
+E06000001,Hartlepool,"North East, England",Services and Industrial Legacy   
+E06000002,Middlesbrough,"North East, England",Urban Settlements
+E06000057,Northumberland,"North East, England",Countryside Living
+E06000048,Northumberland,"North East, England",Countryside Living
+E06000003,Redcar and Cleveland,"North East, England",Services and Industrial Legacy   
+E06000004,Stockton on Tees,"North East, England",Services and Industrial Legacy   
+E08000037,Gateshead,"North East, England",Services and Industrial Legacy   
+E08000020,Gateshead,"North East, England",Services and Industrial Legacy   
+E08000021,Newcastle upon Tyne,"North East, England","Business, Education and Heritage Centres "
+E08000022,North Tyneside,"North East, England",Services and Industrial Legacy   
+E08000023,South Tyneside,"North East, England",Services and Industrial Legacy   
+E08000024,Sunderland,"North East, England",Services and Industrial Legacy   
+E06000008,Blackburn with Darwen,"North West, England",Urban Settlements
+E06000009,Blackpool,"North West, England",Services and Industrial Legacy   
+E06000049,Cheshire East,"North West, England",Town and Country Living
+E06000050,Cheshire West and Chester,"North West, England",Town and Country Living
+E06000006,Halton,"North West, England",Services and Industrial Legacy   
+E06000007,Warrington,"North West, England",Town and Country Living
+E07000026,Allerdale,"North West, England",Countryside Living
+E07000027,Barrow in Furness,"North West, England",Services and Industrial Legacy   
+E07000028,Carlisle,"North West, England",Services and Industrial Legacy   
+E07000029,Copeland,"North West, England",Services and Industrial Legacy   
+E07000030,Eden,"North West, England",Countryside Living
+E07000031,South Lakeland,"North West, England",Countryside Living
+E08000001,Bolton,"North West, England",Urban Settlements
+E08000002,Bury,"North West, England",Urban Settlements
+E08000003,Manchester,"North West, England","Business, Education and Heritage Centres "
+E08000004,Oldham,"North West, England",Urban Settlements
+E08000005,Rochdale,"North West, England",Urban Settlements
+E08000006,Salford,"North West, England",Urban Settlements
+E08000007,Stockport,"North West, England",Town and Country Living
+E08000008,Tameside,"North West, England",Urban Settlements
+E08000009,Trafford,"North West, England",Urban Settlements
+E08000010,Wigan,"North West, England",Services and Industrial Legacy   
+E07000117,Burnley,"North West, England",Urban Settlements
+E07000118,Chorley,"North West, England",Town and Country Living
+E07000119,Fylde,"North West, England",Countryside Living
+E07000120,Hyndburn,"North West, England",Urban Settlements
+E07000121,Lancaster,"North West, England","Business, Education and Heritage Centres "
+E10000017,Lancashire,"North West, England",Countryside Living
+E07000122,Pendle,"North West, England",Urban Settlements
+E07000123,Preston,"North West, England","Business, Education and Heritage Centres "
+E07000124,Ribble Valley,"North West, England",Countryside Living
+E07000125,Rossendale,"North West, England",Services and Industrial Legacy   
+E07000126,South Ribble,"North West, England",Town and Country Living
+E07000127,West Lancashire,"North West, England",Town and Country Living
+E07000128,Wyre,"North West, England",Countryside Living
+E08000011,Knowsley,"North West, England",Services and Industrial Legacy   
+E08000012,Liverpool,"North West, England","Business, Education and Heritage Centres "
+E10000006,Cumbria,"North West, England",Countryside Living
+E08000014,Sefton,"North West, England",Services and Industrial Legacy   
+E08000013,St. Helens,"North West, England",Services and Industrial Legacy   
+E08000015,Wirral,"North West, England",Services and Industrial Legacy   
+E06000011,East Riding of Yorkshire,"Yorkshire and The Humber, England",Countryside Living
+E10000023,North Yorkshire,"Yorkshire and The Humber, England",Countryside Living
+E06000010,"Kingston upon Hull, City of","Yorkshire and The Humber, England",Urban Settlements
+E06000012,North East Lincolnshire,"Yorkshire and The Humber, England",Services and Industrial Legacy   
+E06000013,North Lincolnshire,"Yorkshire and The Humber, England",Town and Country Living
+E06000014,York,"Yorkshire and The Humber, England","Business, Education and Heritage Centres "
+E07000163,Craven,"Yorkshire and The Humber, England",Countryside Living
+E07000164,Hambleton,"Yorkshire and The Humber, England",Countryside Living
+E07000165,Harrogate,"Yorkshire and The Humber, England",Countryside Living
+E07000166,Richmondshire,"Yorkshire and The Humber, England",Countryside Living
+E07000167,Ryedale,"Yorkshire and The Humber, England",Countryside Living
+E07000168,Scarborough,"Yorkshire and The Humber, England",Countryside Living
+E07000169,Selby,"Yorkshire and The Humber, England",Town and Country Living
+E08000016,Barnsley,"Yorkshire and The Humber, England",Services and Industrial Legacy   
+E08000017,Doncaster,"Yorkshire and The Humber, England",Services and Industrial Legacy   
+E08000018,Rotherham,"Yorkshire and The Humber, England",Services and Industrial Legacy   
+E08000019,Sheffield,"Yorkshire and The Humber, England","Business, Education and Heritage Centres "
+E08000032,Bradford,"Yorkshire and The Humber, England",Urban Settlements
+E08000033,Calderdale,"Yorkshire and The Humber, England",Urban Settlements
+E08000034,Kirklees,"Yorkshire and The Humber, England",Urban Settlements
+E08000035,Leeds,"Yorkshire and The Humber, England","Business, Education and Heritage Centres "
+E08000036,Wakefield,"Yorkshire and The Humber, England",Services and Industrial Legacy   
+E06000015,Derby,"East Midlands, England",Urban Settlements
+E10000007,Derbyshire,"East Midlands, England",Urban Settlements
+E06000016,Leicester,"East Midlands, England",Ethnically Diverse Metropolitan Living
+E10000018,Leicestershire,"East Midlands, England",Ethnically Diverse Metropolitan Living
+E06000018,Nottingham,"East Midlands, England","Business, Education and Heritage Centres "
+E06000017,Rutland,"East Midlands, England",Countryside Living
+E07000032,Amber Valley,"East Midlands, England",Town and Country Living
+E07000033,Bolsover,"East Midlands, England",Services and Industrial Legacy   
+E07000034,Chesterfield,"East Midlands, England",Services and Industrial Legacy   
+E07000035,Derbyshire Dales,"East Midlands, England",Countryside Living
+E07000036,Erewash,"East Midlands, England",Town and Country Living
+E07000037,High Peak,"East Midlands, England",Town and Country Living
+E07000038,North East Derbyshire,"East Midlands, England",Town and Country Living
+E07000039,South Derbyshire,"East Midlands, England",Town and Country Living
+E07000129,Blaby,"East Midlands, England",Town and Country Living
+E07000130,Charnwood,"East Midlands, England",Town and Country Living
+E07000131,Harborough,"East Midlands, England",Town and Country Living
+E07000132,Hinckley and Bosworth,"East Midlands, England",Town and Country Living
+E07000133,Melton,"East Midlands, England",Town and Country Living
+E07000134,North West Leicestershire,"East Midlands, England",Town and Country Living
+E07000135,Oadby and Wigston,"East Midlands, England",Town and Country Living
+E07000136,Boston,"East Midlands, England",Urban Settlements
+E07000137,East Lindsey,"East Midlands, England",Countryside Living
+E07000138,Lincoln,"East Midlands, England","Business, Education and Heritage Centres "
+E10000019,Lincolnshire,"East Midlands, England",Countryside Living
+E07000139,North Kesteven,"East Midlands, England",Countryside Living
+E07000140,South Holland,"East Midlands, England",Town and Country Living
+E07000141,South Kesteven,"East Midlands, England",Town and Country Living
+E07000142,West Lindsey,"East Midlands, England",Countryside Living
+E07000150,Corby,"East Midlands, England",Urban Settlements
+E07000151,Daventry,"East Midlands, England",Town and Country Living
+E07000152,East Northamptonshire,"East Midlands, England",Town and Country Living
+E07000153,Kettering,"East Midlands, England",Urban Settlements
+E07000154,Northampton,"East Midlands, England",Urban Settlements
+E10000021,Northamptonshire,"East Midlands, England",Town and Country Living
+E07000155,South Northamptonshire,"East Midlands, England",Town and Country Living
+E07000156,Wellingborough,"East Midlands, England",Urban Settlements
+E07000170,Ashfield,"East Midlands, England",Services and Industrial Legacy   
+E07000171,Bassetlaw,"East Midlands, England",Town and Country Living
+E07000172,Broxtowe,"East Midlands, England",Town and Country Living
+E10000024,Nottinghamshire,"East Midlands, England",Town and Country Living
+E07000173,Gedling,"East Midlands, England",Town and Country Living
+E07000174,Mansfield,"East Midlands, England",Services and Industrial Legacy   
+E07000175,Newark and Sherwood,"East Midlands, England",Town and Country Living
+E07000176,Rushcliffe,"East Midlands, England",Affluent England  
+E06000019,"Herefordshire,  County of","West Midlands, England",Countryside Living
+E06000051,Shropshire,"West Midlands, England",Countryside Living
+E06000021,Stoke on Trent,"West Midlands, England",Urban Settlements
+E06000020,Telford and Wrekin,"West Midlands, England",Urban Settlements
+E07000192,Cannock Chase,"West Midlands, England",Services and Industrial Legacy   
+E07000193,East Staffordshire,"West Midlands, England",Town and Country Living
+E07000194,Lichfield,"West Midlands, England",Town and Country Living
+E07000195,Newcastle under Lyme,"West Midlands, England",Town and Country Living
+E07000196,South Staffordshire,"West Midlands, England",Town and Country Living
+E07000197,Stafford,"West Midlands, England",Town and Country Living
+E10000028,Staffordshire,"West Midlands, England",Town and Country Living
+E07000198,Staffordshire Moorlands,"West Midlands, England",Town and Country Living
+E07000199,Tamworth,"West Midlands, England",Services and Industrial Legacy   
+E07000218,North Warwickshire,"West Midlands, England",Town and Country Living
+E10000031,Warwickshire,"West Midlands, England",Town and Country Living
+E07000219,Nuneaton and Bedworth,"West Midlands, England",Urban Settlements
+E07000220,Rugby,"West Midlands, England",Urban Settlements
+E07000221,Stratford on Avon,"West Midlands, England",Countryside Living
+E07000222,Warwick,"West Midlands, England","Business, Education and Heritage Centres "
+E08000025,Birmingham,"West Midlands, England",Ethnically Diverse Metropolitan Living
+E08000026,Coventry,"West Midlands, England","Business, Education and Heritage Centres "
+E08000027,Dudley,"West Midlands, England",Services and Industrial Legacy   
+E08000028,Sandwell,"West Midlands, England",Urban Settlements
+E08000029,Solihull,"West Midlands, England",Town and Country Living
+E08000030,Walsall,"West Midlands, England",Urban Settlements
+E08000031,Wolverhampton,"West Midlands, England",Urban Settlements
+E07000234,Bromsgrove,"West Midlands, England",Town and Country Living
+E07000235,Malvern Hills,"West Midlands, England",Countryside Living
+E07000236,Redditch,"West Midlands, England",Urban Settlements
+E07000237,Worcester,"West Midlands, England",Urban Settlements
+E07000238,Wychavon,"West Midlands, England",Town and Country Living
+E07000239,Wyre Forest,"West Midlands, England",Town and Country Living
+E10000012,Essex,"East, England",Urban Settlements
+E06000055,Bedford,"East, England",Urban Settlements
+E10000015,Hertfordshire,"East, England",Affluent England  
+E06000056,Central Bedfordshire,"East, England",Affluent England  
+E06000032,Luton,"East, England",Ethnically Diverse Metropolitan Living
+E06000031,Peterborough,"East, England",Urban Settlements
+E06000033,Southend on Sea,"East, England",Urban Settlements
+E06000034,Thurrock,"East, England",Urban Settlements
+E07000008,Cambridge,"East, England","Business, Education and Heritage Centres "
+E07000009,East Cambridgeshire,"East, England",Town and Country Living
+E10000003,Cambridgeshire,"East, England",Town and Country Living
+E07000010,Fenland,"East, England",Town and Country Living
+E07000011,Huntingdonshire,"East, England",Town and Country Living
+E07000012,South Cambridgeshire,"East, England",Affluent England  
+E07000066,Basildon,"East, England",Urban Settlements
+E07000067,Braintree,"East, England",Town and Country Living
+E07000068,Brentwood,"East, England",Affluent England  
+E07000069,Castle Point,"East, England",Town and Country Living
+E07000070,Chelmsford,"East, England",Affluent England  
+E07000071,Colchester,"East, England",Affluent England  
+E07000072,Epping Forest,"East, England",Affluent England  
+E07000073,Harlow,"East, England",Urban Settlements
+E07000074,Maldon,"East, England",Town and Country Living
+E07000075,Rochford,"East, England",Town and Country Living
+E07000076,Tendring,"East, England",Countryside Living
+E07000077,Uttlesford,"East, England",Affluent England  
+E07000095,Broxbourne,"East, England",Urban Settlements
+E07000096,Dacorum,"East, England",Affluent England  
+E07000242,East Hertfordshire,"East, England",Affluent England  
+E07000098,Hertsmere,"East, England",Affluent England  
+E07000099,North Hertfordshire,"East, England",Affluent England  
+E07000240,St Albans,"East, England",Affluent England  
+E07000243,Stevenage,"East, England",Urban Settlements
+E07000102,Three Rivers,"East, England",Affluent England  
+E07000103,Watford,"East, England",Urban Settlements
+E07000241,Welwyn Hatfield,"East, England","Business, Education and Heritage Centres "
+E07000143,Breckland,"East, England",Countryside Living
+E07000144,Broadland,"East, England",Town and Country Living
+E07000145,Great Yarmouth,"East, England",Countryside Living
+E07000146,King's Lynn and West Norfolk,"East, England",Countryside Living
+E07000147,North Norfolk,"East, England",Countryside Living
+E07000148,Norwich,"East, England","Business, Education and Heritage Centres "
+E07000149,South Norfolk,"East, England",Town and Country Living
+E07000200,Babergh,"East, England",Town and Country Living
+E07000201,Forest Heath,"East, England",Affluent England  
+E07000202,Ipswich,"East, England",Urban Settlements
+E10000029,Suffolk,"East, England",Town and Country Living
+E07000203,Mid Suffolk,"East, England",Town and Country Living
+E07000204,St Edmundsbury,"East, England",Town and Country Living
+E07000205,Suffolk Coastal,"East, England",Countryside Living
+E07000206,Waveney,"East, England",Countryside Living
+E09000007,Camden,"London, England",London Cosmopolitan
+E09000012,Hackney,"London, England",London Cosmopolitan
+E09000013,Hammersmith and Fulham,"London, England",London Cosmopolitan
+E09000014,Haringey,"London, England",London Cosmopolitan
+E09000019,Islington,"London, England",London Cosmopolitan
+E09000020,Kensington and Chelsea,"London, England",London Cosmopolitan
+E09000022,Lambeth,"London, England",London Cosmopolitan
+E09000023,Lewisham,"London, England",Ethnically Diverse Metropolitan Living
+E09000025,Newham,"London, England",Ethnically Diverse Metropolitan Living
+E09000028,Southwark,"London, England",London Cosmopolitan
+E09000030,Tower Hamlets,"London, England",London Cosmopolitan
+E09000032,Wandsworth,"London, England",London Cosmopolitan
+E09000033,Westminster,"London, England",London Cosmopolitan
+E09000001,City of London,"London, England",London Cosmopolitan
+E09000002,Barking and Dagenham,"London, England",Ethnically Diverse Metropolitan Living
+E09000003,Barnet,"London, England",Ethnically Diverse Metropolitan Living
+E09000004,Bexley,"London, England",Urban Settlements
+E09000005,Brent,"London, England",Ethnically Diverse Metropolitan Living
+E09000006,Bromley,"London, England",Affluent England  
+E09000008,Croydon,"London, England",Ethnically Diverse Metropolitan Living
+E09000009,Ealing,"London, England",Ethnically Diverse Metropolitan Living
+E09000010,Enfield,"London, England",Ethnically Diverse Metropolitan Living
+E09000011,Greenwich,"London, England",Ethnically Diverse Metropolitan Living
+E09000015,Harrow,"London, England",Ethnically Diverse Metropolitan Living
+E09000016,Havering,"London, England",Urban Settlements
+E09000017,Hillingdon,"London, England",Ethnically Diverse Metropolitan Living
+E09000018,Hounslow,"London, England",Ethnically Diverse Metropolitan Living
+E09000021,Kingston upon Thames,"London, England","Business, Education and Heritage Centres "
+E09000024,Merton,"London, England",Ethnically Diverse Metropolitan Living
+E09000026,Redbridge,"London, England",Ethnically Diverse Metropolitan Living
+E09000027,Richmond upon Thames,"London, England",Affluent England  
+EHEATHROW,Heathrow Airport,"London, England",Services and Industrial Legacy   
+E09000029,Sutton,"London, England",Urban Settlements
+E09000031,Waltham Forest,"London, England",Ethnically Diverse Metropolitan Living
+E06000036,Bracknell Forest,"South East, England",Affluent England  
+E06000043,Brighton and Hove,"South East, England","Business, Education and Heritage Centres "
+E10000002,Buckinghamshire,"South East, England",Countryside Living
+E06000046,Isle of Wight,"South East, England",Countryside Living
+E06000035,Medway,"South East, England",Urban Settlements
+E06000042,Milton Keynes,"South East, England",Urban Settlements
+E06000044,Portsmouth,"South East, England","Business, Education and Heritage Centres "
+E06000038,Reading,"South East, England","Business, Education and Heritage Centres "
+E06000039,Slough,"South East, England",Ethnically Diverse Metropolitan Living
+E06000045,Southampton,"South East, England","Business, Education and Heritage Centres "
+E06000037,West Berkshire,"South East, England",Affluent England  
+E06000040,Windsor and Maidenhead,"South East, England",Affluent England  
+E06000041,Wokingham,"South East, England",Affluent England  
+E07000004,Aylesbury Vale,"South East, England",Affluent England  
+E07000005,Chiltern,"South East, England",Affluent England  
+E07000006,South Bucks,"South East, England",Affluent England  
+E07000007,Wycombe,"South East, England",Affluent England  
+E07000061,Eastbourne,"South East, England","Business, Education and Heritage Centres "
+E07000062,Hastings,"South East, England",Urban Settlements
+E07000063,Lewes,"South East, England",Countryside Living
+E07000064,Rother,"South East, England",Countryside Living
+E07000065,Wealden,"South East, England",Countryside Living
+E07000084,Basingstoke and Deane,"South East, England",Affluent England  
+E07000085,East Hampshire,"South East, England",Affluent England  
+E10000014,Hampshire,"South East, England",Affluent England  
+E07000086,Eastleigh,"South East, England",Town and Country Living
+E07000087,Fareham,"South East, England",Town and Country Living
+E07000088,Gosport,"South East, England",Services and Industrial Legacy   
+E07000089,Hart,"South East, England",Affluent England  
+E07000090,Havant,"South East, England",Services and Industrial Legacy   
+E07000091,New Forest,"South East, England",Countryside Living
+E07000092,Rushmoor,"South East, England",Urban Settlements
+E07000093,Test Valley,"South East, England",Affluent England  
+E07000094,Winchester,"South East, England",Affluent England  
+E07000105,Ashford,"South East, England",Town and Country Living
+E07000106,Canterbury,"South East, England","Business, Education and Heritage Centres "
+E07000107,Dartford,"South East, England",Urban Settlements
+E07000108,Dover,"South East, England",Countryside Living
+E07000109,Gravesham,"South East, England",Urban Settlements
+E07000110,Maidstone,"South East, England",Affluent England  
+E07000111,Sevenoaks,"South East, England",Affluent England  
+E07000112,Shepway,"South East, England",Countryside Living
+E07000113,Swale,"South East, England",Town and Country Living
+E07000114,Thanet,"South East, England",Countryside Living
+E07000115,Tonbridge and Malling,"South East, England",Affluent England  
+E07000116,Tunbridge Wells,"South East, England",Affluent England  
+E07000177,Cherwell,"South East, England",Affluent England  
+E07000178,Oxford,"South East, England","Business, Education and Heritage Centres "
+E10000025,Oxfordshire,"South East, England",Affluent England  
+E07000179,South Oxfordshire,"South East, England",Affluent England  
+E07000180,Vale of White Horse,"South East, England",Affluent England  
+E07000181,West Oxfordshire,"South East, England",Affluent England  
+E07000207,Elmbridge,"South East, England",Affluent England  
+E07000208,Epsom and Ewell,"South East, England",Affluent England  
+E07000209,Guildford,"South East, England",Affluent England  
+E07000210,Mole Valley,"South East, England",Affluent England  
+E07000211,Reigate and Banstead,"South East, England",Affluent England  
+E07000212,Runnymede,"South East, England",Affluent England  
+E07000213,Spelthorne,"South East, England",Affluent England  
+E07000214,Surrey Heath,"South East, England",Affluent England  
+E10000030,Surrey,"South East, England",Affluent England  
+E07000215,Tandridge,"South East, England",Affluent England  
+E07000216,Waverley,"South East, England",Affluent England  
+E07000217,Woking,"South East, England",Affluent England  
+E07000223,Adur,"South East, England",Town and Country Living
+E07000224,Arun,"South East, England",Countryside Living
+E07000225,Chichester,"South East, England",Countryside Living
+E07000226,Crawley,"South East, England",Urban Settlements
+E07000227,Horsham,"South East, England",Affluent England  
+E07000228,Mid Sussex,"South East, England",Affluent England  
+E10000032,West Sussex,"South East, England",Affluent England  
+E10000011,East Sussex,"South East, England",Affluent England  
+E10000016,Kent,"South East, England",Urban Settlements
+E07000229,Worthing,"South East, England",Urban Settlements
+E06000022,Bath and North East Somerset,"South West, England","Business, Education and Heritage Centres "
+E06000028,Bournemouth,"South West, England","Business, Education and Heritage Centres "
+E06000023,"Bristol,  City of","South West, England","Business, Education and Heritage Centres "
+E06000053,Isles of Scilly,"South West, England",Countryside Living
+E06000052,Cornwall,"South West, England",Countryside Living
+E06000024,North Somerset,"South West, England",Countryside Living
+E06000026,Plymouth,"South West, England","Business, Education and Heritage Centres "
+E06000029,Poole,"South West, England",Town and Country Living
+E06000025,South Gloucestershire,"South West, England",Town and Country Living
+E10000013,Gloucestershire,"South West, England",Town and Country Living
+E06000030,Swindon,"South West, England",Urban Settlements
+E06000027,Torbay,"South West, England",Countryside Living
+E06000054,Wiltshire,"South West, England",Town and Country Living
+E07000040,East Devon,"South West, England",Countryside Living
+E07000041,Exeter,"South West, England","Business, Education and Heritage Centres "
+E07000042,Mid Devon,"South West, England",Countryside Living
+E07000043,North Devon,"South West, England",Countryside Living
+E07000044,South Hams,"South West, England",Countryside Living
+E07000045,Teignbridge,"South West, England",Countryside Living
+E07000046,Torridge,"South West, England",Countryside Living
+E07000047,West Devon,"South West, England",Countryside Living
+E10000008,Devon,"South West, England",Countryside Living
+E07000048,Christchurch,"South West, England",Countryside Living
+E07000049,East Dorset,"South West, England",Countryside Living
+E07000050,North Dorset,"South West, England",Countryside Living
+E10000009,Dorset,"South West, England",Countryside Living
+E07000051,Purbeck,"South West, England",Countryside Living
+E07000052,West Dorset,"South West, England",Countryside Living
+E07000053,Weymouth and Portland,"South West, England",Countryside Living
+E07000078,Cheltenham,"South West, England","Business, Education and Heritage Centres "
+E07000079,Cotswold,"South West, England",Countryside Living
+E07000080,Forest of Dean,"South West, England",Town and Country Living
+E07000081,Gloucester,"South West, England",Urban Settlements
+E07000082,Stroud,"South West, England",Town and Country Living
+E07000083,Tewkesbury,"South West, England",Town and Country Living
+E07000187,Mendip,"South West, England",Countryside Living
+E07000188,Sedgemoor,"South West, England",Countryside Living
+E07000189,South Somerset,"South West, England",Countryside Living
+E07000190,Taunton Deane,"South West, England",Countryside Living
+E07000191,West Somerset,"South West, England",Countryside Living
+E10000027,Somerset,"South West, England",Countryside Living
+W06000001,Isle of Anglesey,Wales,Countryside Living
+W06000002,Gwynedd,Wales,Countryside Living
+W06000003,Conwy,Wales,Countryside Living
+W06000004,Denbighshire,Wales,Countryside Living
+W06000005,Flintshire,Wales,Town and Country Living
+W06000006,Wrexham,Wales,Services and Industrial Legacy   
+W06000023,Powys,Wales,Countryside Living
+W06000008,Ceredigion,Wales,Countryside Living
+W06000009,Pembrokeshire,Wales,Countryside Living
+W06000010,Carmarthenshire,Wales,Countryside Living
+W06000011,Swansea,Wales,Services and Industrial Legacy   
+W06000012,Neath Port Talbot,Wales,Services and Industrial Legacy   
+W06000013,Bridgend,Wales,Services and Industrial Legacy   
+W06000014,Vale of Glamorgan,Wales,Town and Country Living
+W06000015,Cardiff,Wales,"Business, Education and Heritage Centres "
+W06000016,Rhondda Cynon Taf,Wales,Services and Industrial Legacy   
+W06000024,Merthyr Tydfil,Wales,Services and Industrial Legacy   
+W06000018,Caerphilly,Wales,Services and Industrial Legacy   
+W06000019,Blaenau Gwent,Wales,Services and Industrial Legacy   
+W06000020,Torfaen,Wales,Services and Industrial Legacy   
+W06000021,Monmouthshire,Wales,Countryside Living
+W06000022,Newport,Wales,Urban Settlements
+S12000033,Aberdeen City,Scotland,"Business, Education and Heritage Centres "
+S12000034,Aberdeenshire,Scotland,Town and Country Living
+S12000041,Angus,Scotland,Countryside Living
+S12000035,Argyll and Bute,Scotland,Countryside Living
+S12000036,City of Edinburgh,Scotland,"Business, Education and Heritage Centres "
+S12000005,Clackmannanshire,Scotland,Services and Industrial Legacy   
+S12000006,Dumfries and Galloway,Scotland,Countryside Living
+S12000042,Dundee City,Scotland,"Business, Education and Heritage Centres "
+S12000008,East Ayrshire,Scotland,Services and Industrial Legacy   
+S12000045,East Dunbartonshire,Scotland,Town and Country Living
+S12000010,East Lothian,Scotland,Services and Industrial Legacy   
+S12000011,East Renfrewshire,Scotland,Town and Country Living
+S12000014,Falkirk,Scotland,Services and Industrial Legacy   
+S12000015,Fife,Scotland,Services and Industrial Legacy   
+S12000046,Glasgow City,Scotland,"Business, Education and Heritage Centres "
+S12000043,Glasgow City,Scotland,"Business, Education and Heritage Centres "
+S12000017,Highland,Scotland,Countryside Living
+S12000018,Inverclyde,Scotland,Services and Industrial Legacy   
+S12000019,Midlothian,Scotland,Services and Industrial Legacy   
+S12000020,Moray,Scotland,Countryside Living
+S12000013,Na h-Eileanan Siar,Scotland,Countryside Living
+S12000021,North Ayrshire,Scotland,Services and Industrial Legacy   
+S12000044,North Lanarkshire,Scotland,Services and Industrial Legacy   
+S12000023,Orkney Islands,Scotland,Countryside Living
+S12000024,Perth and Kinross,Scotland,Countryside Living
+S12000038,Renfrewshire,Scotland,Services and Industrial Legacy   
+S12000026,Scottish Borders,Scotland,Countryside Living
+S12000027,Shetland Islands,Scotland,Town and Country Living
+S12000028,South Ayrshire,Scotland,Countryside Living
+S12000029,South Lanarkshire,Scotland,Services and Industrial Legacy   
+S12000030,Stirling,Scotland,Countryside Living
+S12000039,West Dunbartonshire,Scotland,Services and Industrial Legacy   
+S12000040,West Lothian,Scotland,Services and Industrial Legacy   
+N09000001,Antrim and Newtownabbey,Northern Ireland,Town and Country Living
+N09000011,Ards and North Down,Northern Ireland,Town and Country Living
+N09000002,"Armagh City, Banbridge and Craigavon",Northern Ireland,Town and Country Living
+N09000003,Belfast,Northern Ireland,"Business, Education and Heritage Centres "
+N09000004,Causeway Coast and Glens,Northern Ireland,Town and Country Living
+N09000005,Derry and Strabane,Northern Ireland,Services and Industrial Legacy   
+N09000006,Fermanagh and Omagh,Northern Ireland,Town and Country Living
+N09000007,Lisburn and Castlereagh,Northern Ireland,Town and Country Living
+N09000008,Mid Ulster,Northern Ireland,Town and Country Living
+N09000010,Mid and East Antrim,Northern Ireland,Town and Country Living
+N09000010,"Newry, Mourne and Down",Northern Ireland,Town and Country Living
+E10000034,Worcestershire,"West Midlands, England",Town and Country Living
+E10000020,Norfolk,"East, England",Town and Country Living
+S12000009,East Dunbartonshire,Scotland,Town and Country Living

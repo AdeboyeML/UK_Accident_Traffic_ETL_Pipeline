@@ -1,0 +1,13 @@
+Sub-Group,Sub-Group Description,Super-Group,Network Density Range,Urban Road Range
+A1,"Very densely networked, super urban London Boroughs",A,16+,97+
+B2,Very densely networked super urban authorities not in London,B,16+,90-99
+B3,"Fairly densely networked, very urban authorities",B,10-15.99,90+
+C4,Fairly densely networked fairly urban authorities,C,10-15.99,70-89
+C5,Less densely networked urban authorities,C,5-9.99,70-99
+C6,Less densely networked mixed rurality authorities,C,5-9.99,40-69
+D7,Sparsely networked mixed rurality authorities,D,2-4.99,40-89
+D8,Sparsely networked rural authorities,D,2-4.99,20-39
+D9,Sparsely networked very rural authorities,D,2-4.99,0-19
+E10,Very Sparsely networked mixed rurality authorities,E,0-1.99,0-39
+E11,Very Sparsely networked very rural Scottish Islands,E,0-1.99,0-19
+Z99,Not classified,Z,N/A,N/A
