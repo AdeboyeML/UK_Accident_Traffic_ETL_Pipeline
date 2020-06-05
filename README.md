@@ -116,7 +116,7 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 
 - ***If the data increased 100x,*** With increase in the traffic and accident data, Amazon EMR clusters will need to be used for the transformation of the data, this is because as of now it takes approx. 40 -50 mins to completely transform the data, but with EMR cluster, things will be done faster.
 
--***The pipelines would be run on a daily basis by 7 am every day.*** The ETL pipeline for now is scheduled to be ran monthly, but can also be configured to run everyday at 7am, The only reason for monthly scheduling is to be able to gather as much data as possible from different local authorities for the month.
+- ***The pipelines would be run on a daily basis by 7 am every day.*** The ETL pipeline for now is scheduled to be ran monthly, but can also be configured to run everyday at 7am, The only reason for monthly scheduling is to be able to gather as much data as possible from different local authorities for the month.
 
 - ***The database needed to be accessed by 100+ people.*** Since Amazon Redshift is a distributed database, it can be accessed by 100+ people for ad-hoc transport, traffic and accident analyses in the UK. ***Note: Amazon Redshift has been pre-configured to allow 500 maximum connections established, but only 50 can run in parallel at a point in time.***
 
