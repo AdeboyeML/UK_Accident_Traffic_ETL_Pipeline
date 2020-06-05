@@ -62,6 +62,8 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 - Note: Airflow DAG runs the whole process.
 
 
+### Architecture
+
 ![etl pipeline][image9]
 
 
