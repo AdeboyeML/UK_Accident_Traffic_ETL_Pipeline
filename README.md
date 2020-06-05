@@ -21,13 +21,14 @@ This is a capstone project that entails building an end-to-end ETL (Extract-Tran
 ![roads][image3]
 
 
+## Data Source
 
 The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (excluding year 2008) and Traffic Dataset from 2000 to 2015 for only major roads i.e. A-class roads and Motorways, additional datasets were added to give more meaning to some of the columns in the datasets. The dataset can be found on **[Kaggle ](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/data).** Informations and descriptions regarding the columns can be found in the **[metadata](all-traffic-data-metadata.pdf).**
 
 
-### Major Higlights
+### Major Highlights
 
-- The motivation behind this project was to use ***big data frameworks and cloud data warehouse services*** to build or develop an ETL pipeline that can be ran automatically without human involvenment based on scheduled time intervals.
+- This capstone project is required for the completion of my Udacity Data Engineering Nanodegree program, and is intended to showcase what I have learnt and gained from the course. Furthermore, the project is motivated by my curiousity to try out how some of the ***big data frameworks and cloud data warehouse services*** can be used to build an ETL pipeline.
 
 - Based on this moivation, two major goals were said to be achieved from this project:
 
@@ -107,6 +108,17 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 
 
 
+
+
+
+
+### Outlook 
+
+- ***If the data increased 100x,*** With increase in the traffic and accident data, Amazon EMR clusters will need to be used for the transformation of the data, this is because as of now it takes approx. 40 -50 mins to completely transform the data, but with EMR cluster, things will be done faster.
+
+-***The pipelines would be run on a daily basis by 7 am every day.*** The ETL pipeline for now is scheduled to be ran monthly, but can also be configured to run everyday at 7am, The only reason for monthly scheduling is to be able to gather as much data as possible from different local authorities for the month.
+
+- ***The database needed to be accessed by 100+ people.*** Since Amazon Redshift is a distributed database, it can be accessed by 100+ people for ad-hoc transport, traffic and accident analyses in the UK. ***Note: Amazon Redshift has been pre-configured to allow 500 maximum connections established, but only 50 can run in parallel at a point in time.***
 
 
 
