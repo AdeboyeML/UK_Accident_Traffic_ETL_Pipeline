@@ -8,7 +8,7 @@
 [image6]: ./gad_imgs/time_frame_dag.JPG "time frame"
 [image7]: ./gad_imgs/tree_view_dag.JPG "tree view"
 [image8]: ./gad_imgs/redshift_connect.JPG "data check"
-[image9]: ./gad_imgs/pipeline.JPG "etl pipeline"
+[image9]: ./gad_imgs/uk_pics_DB.jpg "etl pipeline"
 
 
 
