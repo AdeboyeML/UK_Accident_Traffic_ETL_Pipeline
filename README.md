@@ -3,11 +3,11 @@
 [image3]: ./gad_imgs/roads.jpg "roads"
 [image1]: ./gad_imgs/UK_Accident_Data_Model.png "uk schema"
 [image2]: ./gad_imgs/uk_Traffic_Agg_Tables.png "uk agg"
-[image4]: ./gad_imgs/dag_interface.jpg "dag interface"
-[image5]: ./gad_imgs/graph_dag.jpg "dag pipeline"
-[image6]: ./gad_imgs/time_frame_dag.jpg "time frame"
-[image7]: ./gad_imgs/tree_view_dag.jpg "tree view"
-[image8]: ./gad_imgs/redshift_connect.jpg "data check"
+[image4]: ./gad_imgs/dag_interface.JPG "dag interface"
+[image5]: ./gad_imgs/graph_dag.JPG "dag pipeline"
+[image6]: ./gad_imgs/time_frame_dag.JPG "time frame"
+[image7]: ./gad_imgs/tree_view_dag.JPG "tree view"
+[image8]: ./gad_imgs/redshift_connect.JPG "data check"
 
 
 
