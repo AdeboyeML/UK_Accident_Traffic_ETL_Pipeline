@@ -8,6 +8,8 @@
 [image6]: ./gad_imgs/time_frame_dag.JPG "time frame"
 [image7]: ./gad_imgs/tree_view_dag.JPG "tree view"
 [image8]: ./gad_imgs/redshift_connect.JPG "data check"
+[image9]: ./gad_imgs/pipeline.JPG "etl pipeline"
+
 
 
 
@@ -20,7 +22,7 @@ This is a capstone project that entails building an end-to-end ETL (Extract-Tran
 
 
 
-The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (excluding year 2009) and Traffic Dataset from 2000 to 2015 for only major roads i.e. A-class roads and Motorways, additional datasets were added to give more meaning to some of the columns in the datasets. The dataset can be found on **[Kaggle ](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/data).** Informations and descriptions regarding the columns can be found in the **[metadata](all-traffic-data-metadata.pdf).**
+The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (excluding year 2008) and Traffic Dataset from 2000 to 2015 for only major roads i.e. A-class roads and Motorways, additional datasets were added to give more meaning to some of the columns in the datasets. The dataset can be found on **[Kaggle ](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/data).** Informations and descriptions regarding the columns can be found in the **[metadata](all-traffic-data-metadata.pdf).**
 
 
 ### Major Higlights
@@ -30,7 +32,7 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 - Based on this moivation, two major goals were said to be achieved from this project:
 
 
-- First, is to create a **STAR SCHEMA with fact and dimension tables** from the UK Accident Dataset (approx. 1.5 million rows) and this would include a **accident fact table** that has the actual accident accurences and casualties and **dimension tables** that highlights ***causes of the accident, location, time, conditions of the road, road types, and features that can be attributed to the accident.***
+- First, is to create a **STAR SCHEMA with fact and dimension tables** from the UK Accident Dataset (approx. 1.5 million rows) and this would include a **accident fact table** that has the actual accident occurences and casualties and **dimension tables** that highlights ***causes of the accident, location, time, conditions of the road, road types, and features that can be attributed to the accident.***
 
 
 ![uk schema][image1]
@@ -57,6 +59,9 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 - Data quality checks is done on each table to make sure all tables are filled 
 - Execution Ends.
 - Note: Airflow DAG runs the whole process.
+
+
+![etl pipeline][image9]
 
 
 
