@@ -104,6 +104,11 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 
 
 
+
+
+
+
+
 ***Tools utilized: Python, Pyspark (Apache Spark), Amazon Web Services (s3, redshift), Apache airflow, PostgreSQL***
 
 
