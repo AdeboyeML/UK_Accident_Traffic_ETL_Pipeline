@@ -140,7 +140,7 @@ More information regarding the UK transport and traffic systems can be found on 
 
 
 
-### Quality Check on one of the tables in Redshift Database, ***NOTE: This is just one example of the checks on the tables in the database, The checks can be found in ``redshift_connect(1).ipynb`` notebook:***
+### Quality Check on one of the tables in Redshift Database
 
 ![data check][image8]
 
