@@ -75,7 +75,7 @@ The Datasets are United Kingdom (UK) Accident Datasets from 2005 to 2011 (exclud
 
 
 ### Environmental Setup 
-
+- To set up your Amazon Redshift, you will need to have set in place your IAM Role, IAM User, Security Group, the instruction to set them up including Redshift can be found **[here ](https://github.com/AdeboyeML/UK_Accident_Traffic_ETL_Pipeline/tree/master/AWS_setup).**
 - Amazon Redshift --> I utilized ``1 node`` with ``dc2.large``
 - Apache Airflow --> I utilized the Udacity Airflow server available for students in ***the project workspace***
 
