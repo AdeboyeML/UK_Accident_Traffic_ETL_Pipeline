@@ -21,8 +21,6 @@ This is a capstone project that entails building an end-to-end ETL (Extract-Tran
 
 The end goal of this project is to provide ready-made tables that are waiting to be queried for road transport and traffic statistical analyses. 
 
-- This capstone project is required for the completion of my Udacity Data Engineering Nanodegree program, and is intended to showcase what I have learnt and gained from the course.
-
 
 
 ![roads][image3]
